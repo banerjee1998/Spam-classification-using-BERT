@@ -1,2 +1,1 @@
-# Sentiment-Analysis-using-BERT
-Sentiment Analysis using BERT
+**Spam classification using BERT**
